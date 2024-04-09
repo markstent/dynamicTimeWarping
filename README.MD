@@ -4,6 +4,8 @@
 
 This resource is designed to simplify some of the core concepts of dynamic time warping (DTW) and to demonstrate its practical application using Python. Through this notebook, I tackle some of the foundational ideas and applications of using dynamic time warping a valuable tool for time series analysis and then a walk through on a hands-on example using synthetically generated data and Pytho to show how this technique could be used in a real-world scenario.
 
+You can also view this on my [Medium Blog](https://medium.com/@markstent/dynamic-time-warping-a8c5027defb6)
+
 ## What is DTW?
 
 Dynamic Time Warping is an algorithm that aligns two time series datasets by stretching and compressing their time dimensions. It's used in various fields such as speech recognition, finance, and health analytics.
